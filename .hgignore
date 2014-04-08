@@ -1,0 +1,12 @@
+syntax: glob
+tags
+.hgignore
+*.d
+*.o
+*.txt
+*.bin
+*.errors
+*.output
+*.result
+*.swp
+*.s
